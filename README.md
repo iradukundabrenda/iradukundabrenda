@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on improoving my coding skills through various projects and labs.
+- 🔭 I’m currently working on improving my coding skills through various projects and labs.
 - 👯 I’m looking to collaborate on beginner-friendly open source projects related to software development.
 - 🤔 I’m looking for help with best practices in project structuring and testing.
 - 💬 Ask me about Git workflows, Python basics, or anything CS-related!
