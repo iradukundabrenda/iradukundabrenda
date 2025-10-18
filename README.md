@@ -19,4 +19,4 @@
 
 ## ✍️ Random Dev Quote
 
-![Random Dev Quote](file:///Users/biradukunda/Downloads/Quote.svg)
+![Random Dev Quote](https://raw.githubusercontent.com/iradukundabrenda/iradukundabrenda/refs/heads/main/Quote.svg)
