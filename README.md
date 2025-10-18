@@ -1,16 +1,22 @@
-## Hi 👋, I'm Brenda Iradukunda
+# Hi 👋, I'm Brenda Iradukunda
 
-<!--
-**iradukundabrenda/iradukundabrenda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+🖥️ Currently a student at **Washington and Lee University**  
+👀 Passionate about **Software Engineering**, building scalable applications, and writing clean, efficient code    
+💡 I’m passionate about the intersection of creativity and problem-solving, exploring fields like creative tech projects.
+💞️ Looking to **collaborate on impactful coding projects**  
+🚀 Open to mentorship and guidance for coding and career growth  
 
-Here are some ideas to get you started:
+## 🌐 Socials
+- [LinkedIn](https://www.linkedin.com/in/brenda-iradukunda-6177841b6/)  
 
-- 🔭 I’m currently working on improving my coding skills through various projects and labs.
-- 👯 I’m looking to collaborate on beginner-friendly open source projects related to software development.
-- 🤔 I’m looking for help with best practices in project structuring and testing.
-- 💬 Ask me about Git workflows, Python basics, or anything CS-related!
-- 📫 How to reach me: biradukunda@mail.wlu.edu 
-- 😄 Pronouns: She/Her
-- ⚡ Fun fact: Almost everyone in my extended family doesn't know my real name.
+## 💻 Tech Stack
+**Languages & Frameworks:** Java, Python, C++, C, JavaScript, SQL, HTML/CSS, R   
+**Backend & Tools:** NodeJS, Flask, Spring, REST APIs, Git/GitHub, Docker, Eclipse, Linux, Bash  
+**Frontend:** React, Angular, Angular.js, React Native, Redux, WordPress 
+**Data & ML:** NumPy, Pandas, Plotly, PyTorch, scikit-learn, TensorFlow, Matplotlib  
+**Other Tools & Design:** Arduino, Canva, Figma, LaTeX, Unity  
 
+## ✍️ Random Dev Quote
 
+![Random Dev Quote](file:///Users/biradukunda/Downloads/Quote.svg)
