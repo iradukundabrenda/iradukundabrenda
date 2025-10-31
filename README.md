@@ -4,7 +4,6 @@
 🖥️ Currently a junior at Washington and Lee University  
 👀 Passionate about Software Engineering, building scalable applications, and writing clean, efficient code    
 💡 I’m passionate about the intersection of creativity and problem-solving, exploring fields like creative tech projects.                
-
 🚀 Open to mentorship and guidance for coding and career growth  
 
 ## 🌐 Socials
