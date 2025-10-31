@@ -11,8 +11,8 @@
 
 ## 💻 Tech Stack
 **Languages & Frameworks:** Java, Python, C++, C, JavaScript, SQL, HTML/CSS, R   
-**Languages:** Java, Python, C++, C, JavaScript, SQL, HTML/CSS, R, Bash
-**Frameworks/Tools:** React, Spring, Flask, Node.js, REST APIs, Eclipse, LaTeX, Linux, VS code, Azure               
+**Languages:** Java, Python, C++, C, JavaScript, SQL, HTML/CSS, R, Bash    
+**Frameworks/Tools:** React, Spring, Flask, Node.js, REST APIs, Eclipse, LaTeX, Linux, VS code, Azure                  
 **Other Tools & Design:** Canva, Figma
 
 ## ✍️ Random Dev Quote
